@@ -1,2 +1,2 @@
-# Newscat.php
-Newscat-bot
+# Newscat-bot
+
